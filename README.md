@@ -1,16 +1,40 @@
-## Hi there 👋
+👋 ¡Hola! Soy Manuel Pedrobelli
 
-<!--
-**manupedrob2/manupedrob2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Soy estudiante avanzado de Analista en TIC y actualmente tengo experiencia desarrollando aplicaciones web.
+Me apasiona aprender nuevas tecnologías y aplicar lo que sé para crear soluciones reales que ayuden a las personas.
 
-Here are some ideas to get you started:
+Me considero una persona comprometida con la calidad, responsable y con muchas ganas de crecer profesionalmente.
+Disfruto trabajar en equipo, comunicar ideas con claridad y colaborar para lograr objetivos en común.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Estoy buscando oportunidades para sumarme a un equipo de IT, seguir desarrollándome profesionalmente y aportar mis habilidades técnicas y humanas.
+
+🚀 Tecnologías que manejo
+**Frontend:**
+JavaScript
+React
+.NET Blazor
+
+**Backend**
+Node.js
+Express
+C#
+APIs REST
+
+**Bases de datos**
+SQL
+Postgre
+SQLite
+
+🧠** Conocimientos y metodologías**
+Principios SOLID
+Arquitecturas de software
+Patrones de diseño
+Microservicios
+Testing
+Metodologías ágiles (SCRUM)
+Programación Orientada a Objetos (POO)
+Ingeniería de Software
+UML
+Inglés: B1
+
+📌 Mi portfolio  https://manupedrobcv.onrender.com/
