@@ -6,7 +6,7 @@ Me apasiona aprender nuevas tecnologías y aplicar lo que sé para crear solucio
 Me considero una persona comprometida con la calidad, responsable y con muchas ganas de crecer profesionalmente.
 Disfruto trabajar en equipo, comunicar ideas con claridad y colaborar para lograr objetivos en común.
 
-Estoy buscando oportunidades para sumarme a un equipo de IT, seguir desarrollándome profesionalmente y aportar mis habilidades técnicas y humanas.
+Estoy buscando oportunidades para sumarme a un equipo de IT, seguir desarrollándome profesionalmente y aportar mis habilidades técnicas y blandas.
 
 🚀 Tecnologías que manejo
 **Frontend:**
