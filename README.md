@@ -1,40 +1,49 @@
-👋 ¡Hola! Soy Manuel Pedrobelli
+# 👋 ¡Hola! Soy Manuel Pedrobelli
 
-💻 Soy estudiante avanzado de Analista en TIC y actualmente tengo experiencia desarrollando aplicaciones web.
-Me apasiona aprender nuevas tecnologías y aplicar lo que sé para crear soluciones reales que ayuden a las personas.
+### 🎓 Estudiante Avanzado de Analista en TIC | Desarrollador Web Full Stack
 
-Me considero una persona comprometida con la calidad, responsable y con muchas ganas de crecer profesionalmente.
-Disfruto trabajar en equipo, comunicar ideas con claridad y colaborar para lograr objetivos en común.
+Soy un desarrollador apasionado por crear soluciones tecnológicas que impacten positivamente en la vida real. Actualmente, estoy finalizando mi formación académica y cuento con experiencia práctica desarrollando aplicaciones web modernas y escalables.
 
-Estoy buscando oportunidades para sumarme a un equipo de IT, seguir desarrollándome profesionalmente y aportar mis habilidades técnicas y blandas.
+Mi enfoque no es solo "que el código funcione", sino que sea mantenible y de calidad. Tengo un fuerte interés en la **Ingeniería de Software**, aplicando buenas prácticas, patrones de diseño y metodologías de calidad en cada proyecto.
 
-🚀 Tecnologías que manejo
-**Frontend:**
-JavaScript
-React
-.NET Blazor
+🚀 **Objetivo:** Busco sumarme a un equipo de IT donde pueda aportar mi proactividad, seguir aprendiendo de mis compañeros y crecer profesionalmente como desarrollador.
+
+---
+
+### 🛠 Stack Tecnológico
+
+**Frontend**
+* **Lenguajes:** TypeScript, JavaScript (ES6+)
+* **Frameworks/Librerías:** React, .NET Blazor
+* **Herramientas:** Zod (Validaciones), CSS3, HTML5
 
 **Backend**
-Node.js
-Express
-C#
-APIs REST
+* **Core:** C# (.NET), Node.js, Express
+* **ORM:** Entity Framework Core
+* **Arquitectura:** APIs RESTful
 
-**Bases de datos**
-SQL
-Postgre
-SQLite
+**Base de Datos**
+* PostgreSQL, SQL Server, SQLite
 
-🧠** Conocimientos y metodologías**
-Principios SOLID
-Arquitecturas de software
-Patrones de diseño
-Microservicios
-Testing
-Metodologías ágiles (SCRUM)
-Programación Orientada a Objetos (POO)
-Ingeniería de Software
-UML
-Inglés: B1
+---
 
-📌 Mi portfolio  https://manupedrobcv.onrender.com/
+### 🧠 Conocimientos y Metodologías
+
+Me destaco por ir más allá del código, entendiendo el ciclo de vida completo del software:
+
+* **Calidad de Software:** Comprensión de ciclos de mejora (PDCA) y análisis de calidad.
+* **Buenas Prácticas:** Principios SOLID, Programación Orientada a Objetos (POO).
+* **Arquitectura:** Diseño de sistemas, Patrones de diseño, Microservicios.
+* **Trabajo en Equipo:** Metodologías Ágiles (SCRUM), comunicación efectiva y resolución de problemas.
+* **Idiomas:** Inglés (Nivel B1 - Lectura técnica fluida).
+
+---
+
+### 📫 Contacto y Portfolio
+
+Si te interesa mi perfil o quieres ver mis proyectos en detalle:
+
+* 🌐 **Portfolio Web:** [manupedrobcv.onrender.com](https://manupedrobcv.onrender.com/)
+* 📸 **Instagram:** [@manupedrob](https://www.instagram.com/manupedrob)
+* ✉️ **Email:** [Tu email aquí]
+* 👔 **LinkedIn:** [Tu LinkedIn aquí]
