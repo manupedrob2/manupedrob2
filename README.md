@@ -44,6 +44,5 @@ Me destaco por ir más allá del código, entendiendo el ciclo de vida completo 
 Si te interesa mi perfil o quieres ver mis proyectos en detalle:
 
 * 🌐 **Portfolio Web:** [manupedrobcv.onrender.com](https://manupedrobcv.onrender.com/)
-* 📸 **Instagram:** [@manupedrob](https://www.instagram.com/manupedrob)
-* ✉️ **Email:** [manupedrob2@gmail.com]
-* 👔 **LinkedIn:** [(https://www.linkedin.com/in/manupedrob)](https://www.linkedin.com/in/manupedrob)
+* ✉️ **Email:** [manupedrob2@gmail.com](manupedrob2@gmail.com)
+* 👔 **LinkedIn:** [linkedin.com/manupedrob](https://www.linkedin.com/in/manupedrob)
