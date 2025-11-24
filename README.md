@@ -46,4 +46,4 @@ Si te interesa mi perfil o quieres ver mis proyectos en detalle:
 * 🌐 **Portfolio Web:** [manupedrobcv.onrender.com](https://manupedrobcv.onrender.com/)
 * 📸 **Instagram:** [@manupedrob](https://www.instagram.com/manupedrob)
 * ✉️ **Email:** [manupedrob2@gmail.com]
-* 👔 **LinkedIn:** [asd](https://www.linkedin.com/in/manupedrob)
+* 👔 **LinkedIn:** [(https://www.linkedin.com/in/manupedrob)](https://www.linkedin.com/in/manupedrob)
