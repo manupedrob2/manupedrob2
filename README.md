@@ -15,7 +15,6 @@ Mi enfoque no es solo "que el código funcione", sino que sea mantenible y de ca
 **Frontend**
 * **Lenguajes:** TypeScript, JavaScript (ES6+)
 * **Frameworks/Librerías:** React, .NET Blazor
-* **Herramientas:** Zod (Validaciones), CSS3, HTML5
 
 **Backend**
 * **Core:** C# (.NET), Node.js, Express
@@ -23,14 +22,11 @@ Mi enfoque no es solo "que el código funcione", sino que sea mantenible y de ca
 * **Arquitectura:** APIs RESTful
 
 **Base de Datos**
-* PostgreSQL, SQL Server, SQLite
+* PostgreSQL, SQL Server, SQLite, Supabase
 
 ---
 
 ### 🧠 Conocimientos y Metodologías
-
-Me destaco por ir más allá del código, entendiendo el ciclo de vida completo del software:
-
 * **Calidad de Software:** Comprensión de ciclos de mejora (PDCA) y análisis de calidad.
 * **Buenas Prácticas:** Principios SOLID, Programación Orientada a Objetos (POO).
 * **Arquitectura:** Diseño de sistemas, Patrones de diseño, Microservicios.
@@ -44,5 +40,5 @@ Me destaco por ir más allá del código, entendiendo el ciclo de vida completo 
 Si te interesa mi perfil o quieres ver mis proyectos en detalle:
 
 * 🌐 **Portfolio Web:** [manupedrobcv.onrender.com](https://manupedrobcv.onrender.com/)
-* ✉️ **Email:** [manupedrob2@gmail.com](manupedrob2@gmail.com)
+* ✉️ **Email:** [manupedrob@gmail.com](manupedrob@gmail.com)
 * 👔 **LinkedIn:** [linkedin.com/manupedrob](https://www.linkedin.com/in/manupedrob)
